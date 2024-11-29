@@ -4,4 +4,4 @@ O objetivo é simular interações reais com a API, validando as respostas receb
 
 # APIs Utilizadas para os testes: 
 - API de consulta da Tabela FIPE, que fornece preços médios de veículos no mercado.
-URL: https://parallelum.com.br/fipe/api/v1/carros/marcas 
+- URL: https://parallelum.com.br/fipe/api/v1/carros/marcas 
