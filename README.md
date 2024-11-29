@@ -28,4 +28,4 @@ API que retorna algum comentário maldoso (idioma por padrão: Inglês)
 # 📘 Estrutura dos testes
 Cada teste dentro do código possui um comentário para detalhar o processo de teste, indicando o resultado esperado. Os testes se constituem de:
 - Verificação de Status (200)
-- Verificação de dados presentes pelos GETs
+- Verificação de dados pelos links presentes
