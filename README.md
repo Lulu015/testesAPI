@@ -2,7 +2,7 @@
 Este repositório contêm testes feitos em APIs públicas, feitos em Python e pytest. 
 O objetivo é simular interações reais com a API, validando as respostas recebidas e o comportamento geral das requisições.
 
-### 🔧 APIs Utilizadas para os testes: 
+# 🔧 APIs Utilizadas para os testes: 
 API de consulta da Tabela FIPE, que fornece preços médios de veículos no mercado.
 - URL: https://parallelum.com.br/fipe/api/v1/carros/marcas 
 
@@ -17,3 +17,9 @@ API que retorna informações sobre algum mangá catalogado
 
 API que retorna algum comentário maldoso (idioma por padrão: Inglês)
 - URL: https://evilinsult.com/generate_insult.php?lang=en&type=json
+
+# ⚙ Pré-requisitos
+- Python
+- Pytest
+- Requisits
+
