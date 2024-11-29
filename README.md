@@ -25,3 +25,7 @@ API que retorna algum comentário maldoso (idioma por padrão: Inglês)
 > [!TIP]
 > Caso queira saber sobre detalhes maiores de pré-requisitos, recomendo que acesse o arquivo `<requirements.txt>`.
 
+# 📘 Estrutura dos testes
+Cada teste dentro do código possui um comentário para detalhar o processo de teste, indicando o resultado esperado. Os testes se constituem de:
+- Verificação de Status (200)
+- Verificação de dados presentes pelos GETs
