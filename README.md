@@ -22,4 +22,6 @@ API que retorna algum comentário maldoso (idioma por padrão: Inglês)
 - Python
 - Pytest
 - Requisits
+> [!TIP]
+> Caso queira saber sobre detalhes maiores de pré-requisitos, recomendo que acesse o arquivo `<requirements.txt>`.
 
